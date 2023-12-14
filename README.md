@@ -7,6 +7,7 @@ This Git repository contains audio sample files of speakers from 'tts_models/en/
 ## Contents
 
 - Audio sample files of speakers from 'tts_models/en/vctk/vits'
+- Text content sourced from ['sample.txt'](https://github.com/aedocw/epub2tts/blob/main/sample.txt), a script by [aedocw](https://github.com/aedocw) that takes an epub (or text file) and reads it to an m4b audiobook file.
 
 ## Getting Started
 
