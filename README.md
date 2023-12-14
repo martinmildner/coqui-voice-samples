@@ -7,7 +7,6 @@ This Git repository contains audio sample files of speakers from 'tts_models/en/
 ## Contents
 
 - Audio sample files of speakers from 'tts_models/en/vctk/vits'
-- Text content sourced from 'sample.txt'
 
 ## Getting Started
 
